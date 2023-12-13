@@ -2,7 +2,7 @@ Twitter Sentiment Analysis:
 Overview
 This Python code performs sentiment analysis on Twitter data using machine learning. The provided datasets, twitter_training.csv and twitter_validation.csv, serve as the training and validation sets, respectively. The model is trained on the training set and evaluated on the validation set to predict sentiment labels (e.g., positive, negative, neutral) for tweets.
 
-Requirements
+Requirements:
 Python 3.x
 Required Python libraries (install using pip install -r requirements.txt):
 pandas
